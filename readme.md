@@ -7,7 +7,7 @@ Example: secretauth:Basic YW55c3RyaW5nOjM0YWIzQVBJS2V5ZnJvbU1haWxjaGltcC11czY=
 
 2) url : url of your region with list ID 
 
-Example: https://us6.api.mailchimp.com/3.0/lists/<listidhere>/members
+Example: https://us6.api.mailchimp.com/3.0/lists/listidhere/members
 
 Its just an express one file api but it took time for me to understand and get this API Endpoint
 
